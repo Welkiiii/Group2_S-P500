@@ -1,4 +1,4 @@
-# S&P 500 Company Growth Classification
+# S&P 500 Company Growth Classification 
 
 ## Project Background
 In today's volatile markets, identifying companies with high growth potential is critical for investors and policymakers. This project leverages machine learning to classify S&P 500 companies into `growth categories` based on their financial and operational characteristics. The insights can support:
@@ -29,4 +29,12 @@ A comprehensive collection of financial and operational metrics for major US com
 | ​**Long business summary**​ | Company description (50-200 words) | Text |
 | ​**Weight**​ | Index weighting percentage | Numerical |
 
-## Methodology Highlights
+## Data Mining workflow
+
+### 1. Data Preparation
+
+### 2. Feature Selection
+
+### 3. Model training
+
+### 4. Model evaluation
