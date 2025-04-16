@@ -29,7 +29,7 @@ A comprehensive collection of financial and operational metrics for major US com
 | ​**Long business summary**​ | Company description (50-200 words) | Text |
 | ​**Weight**​ | Index weighting percentage | Numerical |
 
-## Data Mining workflow
+## Project workflow
 
 ### 1. Data Preparation
 
