@@ -35,6 +35,8 @@ A comprehensive collection of financial and operational metrics for major US com
 
 ### 2. Feature Selection
 
-### 3. Model training
+### 3. Feature engineering
 
-### 4. Model evaluation
+### 4. Model training
+
+### 5. Model evaluation
