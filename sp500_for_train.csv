@@ -1,0 +1,500 @@
+Symbol,Industry,Currentprice,City,Fulltimeemployees,Weight,Growth_Category
+AAPL,Consumer Electronics,254.49,Cupertino,164000.0,0.0692091524397274,Moderate Growth
+NVDA,Semiconductors,134.7,Santa Clara,29600.0,0.0593496381573215,Hyper Growth
+MSFT,Software - Infrastructure,436.6,Redmond,228000.0,0.0584008785436112,High Growth
+AMZN,Internet Retail,224.92,Seattle,1551000.0,0.0425499486683522,Moderate Growth
+GOOGL,Internet Content & Information,191.41,Mountain View,181269.0,0.0423087098196338,High Growth
+GOOG,Internet Content & Information,192.96,Mountain View,181269.0,0.0423086720892176,High Growth
+META,Internet Content & Information,585.25,Menlo Park,72404.0,0.0265813329085953,High Growth
+TSLA,Auto Manufacturers,421.06,Austin,140473.0,0.0243174937863789,Moderate Growth
+AVGO,Semiconductors,220.79,Palo Alto,20000.0,0.0185529040232474,High Growth
+BRK-B,Insurance - Diversified,453.2,Omaha,396500.0,0.0176094184142796,Declining
+WMT,Discount Stores,92.24,Bentonville,2100000.0,0.0133315249578394,Low Growth
+LLY,Drug Manufacturers - General,767.76,Indianapolis,43000.0,0.0124222278222706,High Growth
+JPM,Banks - Diversified,237.6,New York,316043.0,0.0120348036549762,Low Growth
+V,Credit Services,317.71,San Francisco,,0.0110688708065074,Moderate Growth
+MA,Credit Services,528.03,Purchase,33400.0,0.0087193282229185,Moderate Growth
+ORCL,Software - Infrastructure,169.66,Austin,159000.0,0.0085374351921528,Moderate Growth
+XOM,Oil & Gas Integrated,105.87,Spring,62000.0,0.0083714826727031,Declining
+UNH,Healthcare Plans,500.13,Minnetonka,440000.0,0.0082806891423673,Moderate Growth
+COST,Discount Stores,954.07,Issaquah,333000.0,0.007619493664505,Low Growth
+PG,Household & Personal Products,168.06,Cincinnati,108000.0,0.0071207270389399,Declining
+HD,Home Improvement Retail,392.6,Atlanta,465000.0,0.0070164908687495,Moderate Growth
+NFLX,Entertainment,909.05,Los Gatos,13000.0,0.0069910576205273,High Growth
+JNJ,Drug Manufacturers - General,144.47,New Brunswick,131900.0,0.00625788135158,Moderate Growth
+BAC,Banks - Diversified,44.17,Charlotte,213000.0,0.0060974392415119,Declining
+CRM,Software - Application,343.65,San Francisco,72682.0,0.0059168420147283,Moderate Growth
+ABBV,Drug Manufacturers - General,175.58,North Chicago,50000.0,0.0055822292289272,Low Growth
+KO,Beverages - Non-Alcoholic,62.55,Atlanta,79100.0,0.0048477981288716,Declining
+TMUS,Telecom Services,220.31,Bellevue,67000.0,0.0045997825436772,Low Growth
+CVX,Oil & Gas Integrated,142.85,San Ramon,45600.0,0.004582197222029,Declining
+MRK,Drug Manufacturers - General,98.05,Rahway,70000.0,0.0044623948969961,Low Growth
+WFC,Banks - Diversified,70.34,San Francisco,220167.0,0.0042134876359495,Declining
+CSCO,Communication Equipment,58.52,San Jose,90400.0,0.004193244088571,Declining
+ACN,Information Technology Services,366.37,Dublin,774000.0,0.0041228261620705,Low Growth
+NOW,Software - Application,1091.25,Santa Clara,22668.0,0.0040506148617239,High Growth
+AXP,Credit Services,298.65,New York,74600.0,0.0037850469689955,Moderate Growth
+MCD,Restaurants,292.68,Chicago,100000.0,0.0037734940924097,Low Growth
+PEP,Beverages - Non-Alcoholic,152.79,Purchase,318000.0,0.0037714430905654,Declining
+BX,Asset Management,170.84,New York,4735.0,0.003727941394506,Hyper Growth
+IBM,Information Technology Services,223.36,Armonk,282200.0,0.0037157126128858,Low Growth
+DIS,Entertainment,112.03,Burbank,173250.0,0.0036500608043532,Low Growth
+LIN,Specialty Chemicals,424.31,Woking,65596.0,0.0036349300231416,Low Growth
+TMO,Diagnostics & Research,524.05,Waltham,122000.0,0.0036063330205653,Low Growth
+MS,Capital Markets,123.44,New York,80000.0,0.0035778648319882,High Growth
+ABT,Medical Devices,114.23,North Chicago,114000.0,0.0035645619125812,Low Growth
+ADBE,Software - Infrastructure,447.17,San Jose,29945.0,0.003541476793231,Moderate Growth
+AMD,Semiconductors,119.21,Santa Clara,26000.0,0.003480503261541,High Growth
+PM,Tobacco,124.22,Stamford,82700.0,0.0034748504787919,Moderate Growth
+ISRG,Medical Instruments & Supplies,524.43,Sunnyvale,13676.0,0.0033606054313921,High Growth
+PLTR,Software - Infrastructure,80.55,Denver,3892.0,0.0033012985229311,Hyper Growth
+GE,Aerospace & Defense,168.37,Evendale,125000.0,0.0032784613042062,Moderate Growth
+INTU,Software - Application,643.39,Mountain View,18800.0,0.0032401510776038,Hyper Growth
+GS,Capital Markets,566.1,New York,46400.0,0.0031971277914314,Low Growth
+CAT,Farm & Heavy Construction Machinery,366.04,Irving,113200.0,0.0031795032655226,Declining
+TXN,Semiconductors,186.87,Dallas,34000.0,0.0030668986069218,Declining
+QCOM,Semiconductors,152.89,San Diego,49000.0,0.003056010434153,High Growth
+BKNG,Travel Services,5048.59,Norwalk,24200.0,0.0030061903672209,Moderate Growth
+DHR,Diagnostics & Research,228.55,Washington,61000.0,0.0029699252470853,Low Growth
+T,Telecom Services,22.75,Dallas,143630.0,0.0029368551268046,Declining
+BLK,Asset Management,1028.69,New York,20400.0,0.0028664127344873,Moderate Growth
+RTX,Aerospace & Defense,116.48,Arlington,185000.0,0.0027893156400089,Hyper Growth
+SPGI,Financial Data & Stock Exchanges,491.81,New York,40450.0,0.0027456223441796,High Growth
+PFE,Drug Manufacturers - General,26.36,New York,88000.0,0.0026875684982136,Hyper Growth
+HON,Conglomerates,228.32,Charlotte,95000.0,0.0026710623254232,Moderate Growth
+NEE,Utilities - Regulated Electric,71.67,Juno Beach,16800.0,0.0026515919568084,Moderate Growth
+CMCSA,Telecom Services,38.22,Philadelphia,186000.0,0.0026312290280347,Moderate Growth
+ANET,Computer Hardware,112.81,Santa Clara,4023.0,0.0025568019500418,High Growth
+AMGN,Drug Manufacturers - General,263.38,Thousand Oaks,26700.0,0.0025471211505921,High Growth
+PGR,Insurance - Property & Casualty,239.97,Mayfield Village,61432.0,0.0025291591143195,High Growth
+LOW,Home Improvement Retail,247.72,Mooresville,300000.0,0.0025165297417959,Declining
+SYK,Medical Devices,364.6,Portage,52000.0,0.0025006302033538,Moderate Growth
+UNP,Railroads,226.32,Omaha,30518.0,0.0024685471166568,Low Growth
+TJX,Apparel Retail,122.0,Framingham,349000.0,0.0024674573561195,Moderate Growth
+KKR,Asset Management,147.58,New York,4490.0,0.0024501679824236,High Growth
+SCHW,Capital Markets,74.31,Westlake,32100.0,0.0024473320110606,Moderate Growth
+ETN,Specialty Industrial Machinery,338.12,Dublin,94000.0,0.002404083079313,Moderate Growth
+AMAT,Semiconductor Equipment & Materials,163.59,Santa Clara,35200.0,0.0023948302842723,Moderate Growth
+BA,Aerospace & Defense,177.35,Arlington,171000.0,0.0023872432281541,Declining
+BSX,Medical Devices,88.95,Marlborough,48000.0,0.002358603926244,High Growth
+C,Banks - Diversified,69.19,New York,229000.0,0.0023542700868338,Declining
+UBER,Software - Application,60.73,San Francisco,30800.0,0.0023007186880755,High Growth
+COP,Oil & Gas E&P,95.12,Houston,10300.0,0.0022137070424282,Declining
+PANW,Software - Infrastructure,186.78,Santa Clara,15289.0,0.002205099938612,Moderate Growth
+ADP,Software - Application,294.02,Roseland,64000.0,0.0021553625543498,Moderate Growth
+DE,Farm & Heavy Construction Machinery,432.49,Moline,83000.0,0.0021131364706045,Declining
+FI,Information Technology Services,206.05,Milwaukee,42000.0,0.0021090396253712,Moderate Growth
+BMY,Drug Manufacturers - General,57.33,Princeton,34100.0,0.0020919443569806,Moderate Growth
+LMT,Aerospace & Defense,489.02,Bethesda,122000.0,0.0020854548727749,Low Growth
+GILD,Drug Manufacturers - General,92.57,Foster City,18000.0,0.0020756019283012,Moderate Growth
+NKE,Footwear & Accessories,76.94,Beaverton,79400.0,0.0020604530188037,Declining
+CB,Insurance - Property & Casualty,273.2,Zurich,40000.0,0.0019813127338562,Moderate Growth
+UPS,Integrated Freight & Logistics,125.68,Atlanta,500000.0,0.0019295908181313,Moderate Growth
+ADI,Semiconductors,211.78,Wilmington,26000.0,0.0018909858226522,Declining
+MMC,Insurance Brokers,211.74,New York,85000.0,0.0018709147150666,Moderate Growth
+MDT,Medical Devices,81.03,Galway,95000.0,0.0018693636412372,Low Growth
+VRTX,Biotechnology,397.27,Boston,5400.0,0.0018406599323276,Moderate Growth
+MU,Semiconductors,90.12,Boise,48000.0,0.0018064848709125,Hyper Growth
+SBUX,Restaurants,87.97,Seattle,,0.0017944556478219,Declining
+PLD,REIT - Industrial,103.32,San Francisco,2574.0,0.0017216272488319,Moderate Growth
+GEV,Utilities - Renewable,342.66,Cambridge,80000.0,0.0016993695457186,Moderate Growth
+LRCX,Semiconductor Equipment & Materials,71.79,Fremont,17700.0,0.0016618796609002,High Growth
+MO,Tobacco,53.84,Richmond,6400.0,0.0016416770863955,Low Growth
+SO,Utilities - Regulated Electric,82.86,Atlanta,27819.0,0.0016333917228083,Low Growth
+EQIX,REIT - Specialty,927.22,Redwood City,13151.0,0.001609602547996,High Growth
+CRWD,Software - Infrastructure,362.29,Austin,9219.0,0.0016054688566531,Hyper Growth
+PYPL,Credit Services,87.13,San Jose,27200.0,0.0015715605610715,Moderate Growth
+SHW,Specialty Chemicals,345.47,Cleveland,64088.0,0.0015653776364975,Low Growth
+ICE,Financial Data & Stock Exchanges,150.31,Atlanta,12900.0,0.0015527279249214,High Growth
+CME,Financial Data & Stock Exchanges,238.53,Chicago,3565.0,0.0015464776456592,High Growth
+APH,Electronic Components,70.58,Wallingford,95000.0,0.00153091193297,High Growth
+ELV,Healthcare Plans,365.96,Indianapolis,104900.0,0.0015270003499757,Moderate Growth
+TT,Building Products & Equipment,377.11,Swords,40000.0,0.0015267170770852,Moderate Growth
+MCO,Financial Data & Stock Exchanges,466.35,New York,15776.0,0.0015205692300076,High Growth
+CMG,Restaurants,61.87,Newport Beach,125000.0,0.001516725443855,Moderate Growth
+INTC,Semiconductors,19.52,Santa Clara,124100.0,0.0015146801900038,Declining
+KLAC,Semiconductor Equipment & Materials,629.37,Milpitas,15000.0,0.0015145861587321,High Growth
+ABNB,Travel Services,134.21,San Francisco,6907.0,0.0015085792111776,Moderate Growth
+DUK,Utilities - Regulated Electric,108.28,Charlotte,27037.0,0.0015048676288662,Low Growth
+PH,Specialty Industrial Machinery,647.2,Cleveland,61120.0,0.0014988088019894,Low Growth
+CDNS,Software - Application,301.47,San Jose,12703.0,0.001487554968429,High Growth
+WM,Waste Management,205.83,Houston,48000.0,0.0014863153179179,Moderate Growth
+DELL,Computer Hardware,115.77,Round Rock,120000.0,0.0014589501544775,Moderate Growth
+MDLZ,Confectioners,59.39,Chicago,91000.0,0.0014287891082413,Low Growth
+MAR,Lodging,283.96,Bethesda,411000.0,0.001419699467774,Moderate Growth
+MSI,Communication Equipment,469.94,Chicago,21000.0,0.0014129771161556,Moderate Growth
+WELL,REIT - Healthcare Facilities,124.64,Toledo,533.0,0.0013963394764462,High Growth
+AON,Insurance Brokers,358.47,Dublin,50000.0,0.0013947705690998,High Growth
+REGN,Biotechnology,701.85,Tarrytown,14165.0,0.001387599579251,Moderate Growth
+CI,Healthcare Plans,276.92,Bloomfield,70325.0,0.0013857975097231,High Growth
+HCA,Medical Care Facilities,303.62,Nashville,220000.0,0.0013836367064722,Moderate Growth
+PNC,Banks - Regional,192.76,Pittsburgh,53749.0,0.0013760418389788,Low Growth
+ITW,Specialty Industrial Machinery,258.82,Glenview,45000.0,0.0013750642379991,Declining
+SNPS,Software - Infrastructure,492.18,Sunnyvale,20300.0,0.0013687790286249,Moderate Growth
+CTAS,Specialty Business Services,186.94,Cincinnati,46500.0,0.0013570728722232,Moderate Growth
+CL,Household & Personal Products,92.03,New York,34000.0,0.0013527545081791,Low Growth
+USB,Banks - Regional,47.92,Minneapolis,70000.0,0.0013449662723025,Declining
+FTNT,Software - Infrastructure,97.19,Sunnyvale,13986.0,0.0013401975014147,Moderate Growth
+ZTS,Drug Manufacturers - Specialty & Generic,164.84,Parsippany,14100.0,0.0013380109058871,Moderate Growth
+MCK,Medical Distribution,579.74,Irving,45000.0,0.0013240166060798,High Growth
+GD,Aerospace & Defense,263.64,Reston,100000.0,0.001304237614451,Moderate Growth
+TDG,Aerospace & Defense,1276.15,Cleveland,16600.0,0.0012910248943203,High Growth
+CEG,Utilities - Renewable,227.02,Baltimore,13871.0,0.0012774583041531,Moderate Growth
+AJG,Insurance Brokers,283.1,Rolling Meadows,51261.0,0.0012723284413913,Moderate Growth
+EMR,Specialty Industrial Machinery,124.09,Saint Louis,73000.0,0.0012714983722344,Moderate Growth
+MMM,Conglomerates,129.28,Saint Paul,85000.0,0.0012665954815077,Low Growth
+ORLY,Specialty Retail,1219.11,Springfield,92709.0,0.001266226430874,Low Growth
+NOC,Aerospace & Defense,469.54,Falls Church,101000.0,0.0012307758308371,Low Growth
+COF,Credit Services,178.65,McLean,52500.0,0.0012262262943013,Moderate Growth
+ECL,Specialty Chemicals,238.29,Saint Paul,48000.0,0.0012139545501174,High Growth
+EOG,Oil & Gas E&P,119.04,Houston,3050.0,0.0012045879742903,Declining
+FDX,Integrated Freight & Logistics,275.73,Memphis,306000.0,0.0011947972260496,Moderate Growth
+BDX,Medical Instruments & Supplies,227.68,Franklin Lakes,70000.0,0.0011879455445866,Moderate Growth
+APD,Specialty Chemicals,294.99,Allentown,23000.0,0.0011802194312508,Declining
+WMB,Oil & Gas Midstream,53.49,Tulsa,5601.0,0.0011731177120881,Low Growth
+SPG,REIT - Retail,171.61,Indianapolis,2500.0,0.001159265711956,Low Growth
+ADSK,Software - Application,298.12,San Francisco,14100.0,0.0011558944403128,Moderate Growth
+RCL,Travel Services,238.43,Miami,98100.0,0.0011533816093309,High Growth
+RSG,Waste Management,203.73,Phoenix,41000.0,0.0011478148990938,Moderate Growth
+CARR,Building Products & Equipment,68.49,Palm Beach Gardens,53000.0,0.0011055825515098,High Growth
+CSX,Railroads,31.85,Jacksonville,23400.0,0.0011050266174083,Low Growth
+HLT,Lodging,249.42,McLean,178000.0,0.0010939338013469,Moderate Growth
+DLR,REIT - Specialty,178.57,Austin,3664.0,0.0010862428391996,Low Growth
+TGT,Discount Stores,131.48,Minneapolis,415000.0,0.001083896552633,Low Growth
+KMI,Oil & Gas Midstream,26.85,Houston,10891.0,0.0010731975477909,Declining
+OKE,Oil & Gas Midstream,100.08,Tulsa,4775.0,0.0010519823685024,High Growth
+TFC,Banks - Regional,43.32,Charlotte,37867.0,0.0010346446527107,Moderate Growth
+AFL,Insurance - Life,102.69,Columbus,12785.0,0.0010263507408261,Declining
+GM,Auto Manufacturers,51.81,Detroit,163000.0,0.0010249673167954,Moderate Growth
+BK,Banks - Diversified,77.62,New York,52600.0,0.0010153513664986,Low Growth
+ROP,Software - Application,525.4,Sarasota,16800.0,0.0010135940281477,Moderate Growth
+MET,Insurance - Life,81.36,New York,45000.0,0.0010135431068243,High Growth
+CPRT,Specialty Business Services,58.22,Dallas,13086.0,0.0010092487664436,Moderate Growth
+FCX,Copper,38.86,Phoenix,27200.0,0.0010046160313924,High Growth
+CVS,Healthcare Plans,44.36,Woonsocket,219000.0,0.0010043276000465,Moderate Growth
+PCAR,Farm & Heavy Construction Machinery,105.32,Bellevue,32400.0,0.0009934664723222,Declining
+SRE,Utilities - Diversified,86.81,San Diego,16835.0,0.0009892562147636,Declining
+AZO,Specialty Retail,3253.47,Memphis,75600.0,0.0009839571546666,Moderate Growth
+TRV,Insurance - Property & Casualty,240.76,New York,32967.0,0.0009833502255494,Moderate Growth
+NXPI,Semiconductors,210.24,Eindhoven,34200.0,0.0009613408652148,Declining
+JCI,Building Products & Equipment,80.64,Cork,100000.0,0.0009607083648975,Declining
+GWW,Industrial Distribution,1092.96,Lake Forest,23200.0,0.0009576276616746,Low Growth
+NSC,Railroads,234.15,Atlanta,20700.0,0.0009530709769936,Low Growth
+PSA,REIT - Industrial,297.5,Glendale,6200.0,0.000937649701054,Low Growth
+SLB,Oil & Gas Equipment & Services,36.83,Houston,111000.0,0.0009357164593759,Moderate Growth
+AMP,Asset Management,532.12,Minneapolis,13800.0,0.0009287703781801,Moderate Growth
+ALL,Insurance - Property & Casualty,193.56,Northbrook,53000.0,0.0009221471425966,Moderate Growth
+FICO,Software - Application,2090.98,Bozeman,3586.0,0.0009159527220365,High Growth
+MNST,Beverages - Non-Alcoholic,51.72,Corona,5254.0,0.000904937872343,Low Growth
+PAYX,Software - Application,139.54,Rochester,16000.0,0.0009039385321586,Low Growth
+CHTR,Telecom Services,351.5,Stamford,101100.0,0.0008991615814345,Low Growth
+AEP,Utilities - Regulated Electric,92.75,Columbus,17250.0,0.0008886857903243,Low Growth
+ROST,Apparel Retail,149.15,Dublin,108000.0,0.0008853304362004,Moderate Growth
+PWR,Engineering & Construction,328.41,Houston,52500.0,0.0008721671635488,High Growth
+CMI,Specialty Industrial Machinery,351.38,Columbus,75500.0,0.0008672331010134,Low Growth
+AXON,Aerospace & Defense,631.69,Scottsdale,3330.0,0.0008666283089706,Hyper Growth
+VST,Utilities - Independent Power Producers,139.95,Irving,4870.0,0.0008566472874199,Hyper Growth
+URI,Rental & Leasing Services,722.64,Stamford,26300.0,0.0008531704148266,Moderate Growth
+MSCI,Financial Data & Stock Exchanges,604.8,New York,6118.0,0.0008527671710033,High Growth
+LULU,Apparel Retail,379.42,Vancouver,38000.0,0.0008313275252152,Moderate Growth
+O,REIT - Retail,52.79,San Diego,418.0,0.000831239389321,High Growth
+PSX,Oil & Gas Refining & Marketing,110.37,Houston,14000.0,0.0008200705228894,Declining
+AIG,Insurance - Diversified,72.69,New York,25000.0,0.0008157558434562,Declining
+FANG,Oil & Gas E&P,154.94,Midland,1023.0,0.0008139387407156,Moderate Growth
+D,Utilities - Regulated Electric,53.66,Richmond,17700.0,0.0008109550901453,Low Growth
+HWM,Aerospace & Defense,110.83,Pittsburgh,23200.0,0.0008100729942817,Moderate Growth
+DHI,Residential Construction,139.61,Arlington,,0.000805845566436,Declining
+KR,Grocery Stores,61.85,Cincinnati,414000.0,0.0008051995804427,Declining
+NDAQ,Financial Data & Stock Exchanges,77.7,New York,9120.0,0.0008034664131397,Hyper Growth
+OXY,Oil & Gas E&P,47.13,Houston,12570.0,0.0007956475949921,Low Growth
+EW,Medical Devices,74.81,Irvine,19800.0,0.0007938273971783,Moderate Growth
+COR,Medical Distribution,227.69,Conshohocken,46000.0,0.0007917581933559,Moderate Growth
+KDP,Beverages - Non-Alcoholic,32.37,Burlington,28100.0,0.0007899656301242,Low Growth
+FIS,Information Technology Services,81.46,Jacksonville,60000.0,0.000788994587752,Low Growth
+KMB,Household & Personal Products,131.32,Dallas,41000.0,0.0007878959841485,Declining
+NEM,Gold,38.28,Denver,21700.0,0.0007840569142979,Hyper Growth
+DFS,Credit Services,173.16,Riverwoods,21100.0,0.0007821815210119,Hyper Growth
+PCG,Utilities - Regulated Electric,19.82,Oakland,28010.0,0.0007821768047099,Low Growth
+TEL,Electronic Components,143.67,Ballybrit,87000.0,0.0007732753741703,Low Growth
+MPC,Oil & Gas Refining & Marketing,133.38,Findlay,18200.0,0.000771229088628,Declining
+FAST,Industrial Distribution,74.82,Winona,20894.0,0.0007711655659351,Low Growth
+AME,Specialty Industrial Machinery,183.36,Berwyn,21500.0,0.0007630569162894,Moderate Growth
+PEG,Utilities - Regulated Electric,85.06,Newark,12543.0,0.0007624521242466,Moderate Growth
+PRU,Insurance - Life,117.83,Newark,40366.0,0.0007545419277473,Hyper Growth
+KVUE,Household & Personal Products,21.77,Skillman,22000.0,0.000750932925005,Declining
+STZ,Beverages - Brewers,227.63,Victor,10600.0,0.000743662671737,Low Growth
+GLW,Electronic Components,47.31,Corning,49800.0,0.0007287766223853,Moderate Growth
+LHX,Aerospace & Defense,213.55,Melbourne,50000.0,0.0007287110363103,Moderate Growth
+GRMN,Scientific & Technical Instruments,208.99,Schaffhausen,19900.0,0.000722012929432,High Growth
+BKR,Oil & Gas Equipment & Services,40.32,Houston,57000.0,0.0007178098937109,Low Growth
+CBRE,Real Estate Services,129.16,Dallas,130000.0,0.000711109870835,Moderate Growth
+CTVA,Agricultural Inputs,57.48,Indianapolis,22500.0,0.0007107557060296,Declining
+HES,Oil & Gas E&P,128.19,New York,1756.0,0.0007106126694322,Moderate Growth
+CCI,REIT - Specialty,90.66,Houston,4700.0,0.0007088676376819,Declining
+DAL,Airlines,60.93,Atlanta,100000.0,0.0007073620319518,Low Growth
+CTSH,Information Technology Services,79.23,Teaneck,340100.0,0.0007067713151228,Low Growth
+F,Auto Manufacturers,9.88,Dearborn,177000.0,0.0007064447112074,Moderate Growth
+VRSK,Consulting Services,276.86,Jersey City,7500.0,0.0007033806624259,Moderate Growth
+EA,Electronic Gaming & Multimedia,147.8,Redwood City,13700.0,0.0006974124769787,Moderate Growth
+ODFL,Trucking,181.37,Thomasville,22686.0,0.0006966600794209,Declining
+XEL,Utilities - Regulated Electric,67.4,Minneapolis,11311.0,0.0006963322964299,Declining
+TRGP,Oil & Gas Midstream,176.79,Houston,3182.0,0.0006935877034187,Declining
+A,Diagnostics & Research,134.51,Santa Clara,17400.0,0.0006911413428185,Declining
+IT,Information Technology Services,491.25,Stamford,20990.0,0.0006817290778155,Moderate Growth
+LVS,Resorts & Casinos,52.25,Las Vegas,38400.0,0.0006815560484848,Declining
+SYY,Food Distribution,76.97,Houston,76000.0,0.0006802436637534,Low Growth
+VLO,Oil & Gas Refining & Marketing,118.59,San Antonio,9886.0,0.0006754606702673,Declining
+OTIS,Specialty Industrial Machinery,93.56,Farmington,71000.0,0.0006723978005614,Low Growth
+LEN,Residential Construction,138.08,Miami,12284.0,0.0006711927853933,Moderate Growth
+EXC,Utilities - Regulated Electric,37.02,Chicago,19962.0,0.0006692535746455,Low Growth
+IR,Specialty Industrial Machinery,92.28,Davidson,18000.0,0.0006690941783754,Moderate Growth
+YUM,Restaurants,132.36,Louisville,35000.0,0.0006645607804357,Moderate Growth
+KHC,Packaged Foods,30.52,Pittsburgh,36000.0,0.000663947292711,Declining
+GEHC,Health Information Services,78.91,Chicago,51000.0,0.000648618353122,Low Growth
+IQV,Diagnostics & Research,197.27,Durham,88000.0,0.0006441683010822,Low Growth
+GIS,Packaged Foods,63.61,Minneapolis,34000.0,0.0006308421686262,Declining
+CCL,Travel Services,26.8,Miami,106000.0,0.000630672971291,High Growth
+RMD,Medical Instruments & Supplies,237.27,San Diego,,0.0006266409015183,Moderate Growth
+VMC,Building Materials,263.13,Birmingham,10961.0,0.0006251822377318,Declining
+HSY,Confectioners,170.26,Hershey,18650.0,0.0006198523742872,Declining
+ACGL,Insurance - Diversified,90.99,Pembroke,6400.0,0.0006159175782439,Hyper Growth
+IDXX,Diagnostics & Research,412.26,Westbrook,11000.0,0.0006073452940013,Moderate Growth
+WAB,Railroads,193.03,Pittsburgh,29000.0,0.000596948832565,Low Growth
+ROK,Specialty Industrial Machinery,289.79,Milwaukee,27000.0,0.0005893188875752,Declining
+MLM,Building Materials,533.69,Raleigh,9400.0,0.0005868412077818,Declining
+EXR,REIT - Industrial,147.0,Salt Lake City,7618.0,0.0005833211515481,Moderate Growth
+DD,Specialty Chemicals,77.28,Wilmington,24000.0,0.0005811099796654,Low Growth
+ETR,Utilities - Regulated Electric,75.13,New Orleans,12000.0,0.0005796235707584,Declining
+DECK,Footwear & Accessories,210.97,Goleta,4800.0,0.0005766377462676,High Growth
+EFX,Consulting Services,258.43,Atlanta,15000.0,0.0005763126530427,Moderate Growth
+UAL,Airlines,97.4,Chicago,106500.0,0.0005763055785896,Low Growth
+WTW,Insurance Brokers,317.57,London,48000.0,0.0005754908742605,Moderate Growth
+TTWO,Electronic Gaming & Multimedia,181.97,New York,12371.0,0.0005749800766432,Low Growth
+HIG,Insurance - Property & Casualty,109.47,Hartford,18700.0,0.000570941411417,Moderate Growth
+RJF,Asset Management,155.05,Saint Petersburg,,0.0005691928055941,Moderate Growth
+AVB,REIT - Residential,222.17,Arlington,2978.0,0.0005685381976111,Moderate Growth
+MTB,Banks - Regional,189.48,Buffalo,21986.0,0.0005656221228058,Low Growth
+DXCM,Medical Devices,80.04,San Diego,9500.0,0.0005624649270593,Low Growth
+ED,Utilities - Regulated Electric,90.03,New York,14592.0,0.0005611765291452,Moderate Growth
+EBAY,Internet Retail,65.01,San Jose,12300.0,0.0005602442120342,Low Growth
+HPQ,Computer Hardware,32.94,Palo Alto,58000.0,0.0005557693257165,Low Growth
+IRM,REIT - Specialty,105.1,Portsmouth,27000.0,0.0005548982099936,Moderate Growth
+EIX,Utilities - Regulated Electric,79.52,Rosemead,14375.0,0.0005538821048293,Moderate Growth
+LYV,Entertainment,133.28,Beverly Hills,14700.0,0.0005529477611823,Declining
+VICI,REIT - Diversified,28.79,New York,28.0,0.0005460268827255,Moderate Growth
+CNC,Healthcare Plans,59.58,Saint Louis,67700.0,0.0005411746553995,Moderate Growth
+WEC,Utilities - Regulated Electric,94.5,Milwaukee,7000.0,0.0005378569579996,Declining
+MCHP,Semiconductors,55.51,Chandler,22300.0,0.0005363092003201,Declining
+HUM,Healthcare Plans,247.1,Louisville,67600.0,0.0005353041489888,Moderate Growth
+ANSS,Software - Application,338.38,Canonsburg,6400.0,0.0005323854581097,Hyper Growth
+BRO,Insurance Brokers,102.93,Daytona Beach,16152.0,0.0005295487498245,Moderate Growth
+CSGP,Real Estate Services,71.44,Washington,6450.0,0.0005269199272896,Moderate Growth
+MPWR,Semiconductors,593.22,Kirkland,3564.0,0.0005206180634739,Hyper Growth
+GDDY,Software - Infrastructure,205.41,Tempe,6159.0,0.0005188270109327,Moderate Growth
+TSCO,Specialty Retail,53.92,Brentwood,50000.0,0.0005182166551274,Low Growth
+STT,Asset Management,98.2,Boston,53000.0,0.0005179222178656,High Growth
+CAH,Medical Distribution,118.28,Dublin,47922.0,0.0005149989212228,Declining
+GPN,Specialty Business Services,112.03,Atlanta,27000.0,0.0005129503143756,Moderate Growth
+FITB,Banks - Regional,42.93,Cincinnati,18579.0,0.0005127591936052,Declining
+XYL,Specialty Industrial Machinery,117.14,Washington,23000.0,0.0005120057643563,Low Growth
+HPE,Communication Equipment,21.61,Spring,62000.0,0.0005113888130973,Moderate Growth
+KEYS,Scientific & Technical Instruments,163.22,Santa Rosa,15400.0,0.0005085284127635,Declining
+DOW,Chemicals,39.94,Midland,35900.0,0.0005030659033244,Low Growth
+EQR,REIT - Residential,71.35,Chicago,2400.0,0.000502036975714,Low Growth
+ON,Semiconductors,65.5,Scottsdale,30000.0,0.000501771020495,Declining
+PPG,Specialty Chemicals,120.21,Pittsburgh,53000.0,0.0005017533343624,Declining
+K,Packaged Foods,80.5,Chicago,23000.0,0.0004992249911683,Declining
+SW,Packaging & Containers,53.28,Dublin,100000.0,0.0004986082978321,Hyper Growth
+NUE,Steel,116.58,Charlotte,32000.0,0.0004925018657817,Declining
+EL,Household & Personal Products,74.36,New York,44020.0,0.0004802516765719,Declining
+BR,Information Technology Services,226.01,Lake Success,14000.0,0.0004752946957563,Declining
+WBD,Entertainment,10.69,New York,35300.0,0.0004718098644033,Declining
+TPL,Oil & Gas E&P,1133.12,Dallas,100.0,0.000468372306609,Moderate Growth
+CHD,Household & Personal Products,106.1,Ewing,5550.0,0.0004676700934524,Low Growth
+MTD,Diagnostics & Research,1230.74,Columbus,16000.0,0.0004672679918584,Low Growth
+DOV,Specialty Industrial Machinery,189.27,Downers Grove,25000.0,0.0004671671072103,Low Growth
+TYL,Software - Application,605.42,Plano,7386.0,0.0004661739571724,Moderate Growth
+FTV,Scientific & Technical Instruments,74.45,Everett,18000.0,0.0004647206729179,Low Growth
+TROW,Asset Management,116.12,Baltimore,8104.0,0.0004641225131748,Moderate Growth
+VLTO,Pollution & Treatment Controls,104.25,Waltham,16000.0,0.000463848230735,Low Growth
+EQT,Oil & Gas E&P,42.99,Pittsburgh,881.0,0.0004615019810145,High Growth
+SYF,Credit Services,65.45,Stamford,20000.0,0.0004584635402792,Moderate Growth
+NVR,Residential Construction,8276.78,Reston,6300.0,0.0004562415724864,Moderate Growth
+DTE,Utilities - Regulated Electric,120.18,Detroit,9412.0,0.000447791727866,Low Growth
+VTR,REIT - Healthcare Facilities,58.76,Chicago,486.0,0.0004434930396444,Moderate Growth
+AWK,Utilities - Regulated Water,125.92,Camden,6500.0,0.0004415245730856,Moderate Growth
+ADM,Farm Products,50.49,Chicago,40213.0,0.0004346902461402,Declining
+NTAP,Computer Hardware,118.45,San Jose,11800.0,0.0004332583326292,Moderate Growth
+WST,Medical Instruments & Supplies,331.4,Exton,10600.0,0.0004318044219908,Declining
+CPAY,Software - Infrastructure,343.83,Atlanta,10500.0,0.0004312278172218,Moderate Growth
+PPL,Utilities - Regulated Electric,32.43,Allentown,6629.0,0.0004305735408538,Low Growth
+LYB,Specialty Chemicals,73.5,Houston,20000.0,0.0004294449813631,Declining
+AEE,Utilities - Regulated Electric,89.29,Saint Louis,9372.0,0.0004288038222101,Moderate Growth
+EXPE,Travel Services,184.75,Seattle,17100.0,0.0004266074993096,Low Growth
+HBAN,Banks - Regional,16.32,Columbus,19896.0,0.000426570321585,Declining
+CDW,Information Technology Services,174.53,Vernon Hills,15100.0,0.0004184510234137,Declining
+FE,Utilities - Regulated Electric,39.79,Akron,12042.0,0.0004125694631702,Moderate Growth
+HUBB,Electrical Equipment & Parts,426.8,Shelton,18000.0,0.0004121181351738,Low Growth
+HAL,Oil & Gas Equipment & Services,25.97,Houston,48000.0,0.0004104652555436,Declining
+ROL,Personal Services,46.92,Atlanta,20000.0,0.0004088261195123,Moderate Growth
+PHM,Residential Construction,110.52,Atlanta,6382.0,0.0004077839273025,Moderate Growth
+CINF,Insurance - Property & Casualty,144.57,Fairfield,5426.0,0.0004065748959085,Hyper Growth
+PTC,Software - Application,187.58,Boston,7000.0,0.0004054115168442,Moderate Growth
+WRB,Insurance - Property & Casualty,58.57,Greenwich,8329.0,0.0004015508183273,Moderate Growth
+DRI,Restaurants,187.59,Orlando,191105.0,0.000396560307552,Low Growth
+FOXA,Entertainment,49.53,New York,10200.0,0.000394837199237,Moderate Growth
+FOX,Entertainment,46.65,New York,10200.0,0.0003947520110316,Moderate Growth
+IFF,Specialty Chemicals,85.74,New York,21500.0,0.0003944076472914,Low Growth
+SBAC,REIT - Specialty,203.57,Boca Raton,1787.0,0.0003938010497892,Declining
+WAT,Diagnostics & Research,368.16,Milford,7900.0,0.0003932880045592,Low Growth
+ERIE,Insurance Brokers,416.48,Erie,6481.0,0.0003918083384902,High Growth
+TDY,Scientific & Technical Instruments,467.25,Thousand Oaks,14900.0,0.0003917584120117,Low Growth
+ATO,Utilities - Regulated Gas,139.69,Dallas,5019.0,0.0003906065289337,Moderate Growth
+RF,Banks - Regional,23.77,Birmingham,20101.0,0.0003886778561732,High Growth
+BIIB,Drug Manufacturers - General,146.47,Cambridge,7570.0,0.0003839958947196,Declining
+ZBH,Medical Devices,107.12,Warsaw,18000.0,0.0003836602635073,Low Growth
+CNP,Utilities - Regulated Electric,32.54,Houston,8827.0,0.0003815442651257,Declining
+MKC,Packaged Foods,78.86,Hunt Valley,13800.0,0.0003806403563652,Declining
+ES,Utilities - Regulated Electric,56.95,Springfield,10000.0,0.0003754163886395,Moderate Growth
+TSN,Farm Products,58.02,Springdale,138000.0,0.0003717923158384,Low Growth
+TER,Semiconductor Equipment & Materials,125.95,North Reading,6400.0,0.000369042969679,Low Growth
+STE,Medical Devices,207.49,Mentor,18000.0,0.000368475097438,Moderate Growth
+PKG,Packaging & Containers,227.98,Lake Forest,14900.0,0.0003683480888982,Moderate Growth
+CLX,Household & Personal Products,164.44,Oakland,7400.0,0.0003662040506272,High Growth
+NTRS,Asset Management,102.48,Chicago,23300.0,0.0003654634069783,Moderate Growth
+ZBRA,Communication Equipment,393.04,Lincolnshire,9750.0,0.0003647369859277,Hyper Growth
+DVN,Oil & Gas E&P,30.77,Oklahoma City,1900.0,0.0003636540419207,Declining
+CBOE,Financial Data & Stock Exchanges,191.61,Chicago,1647.0,0.0003608846883238,High Growth
+WY,REIT - Specialty,27.5,Seattle,9300.0,0.0003594835413143,Declining
+LUV,Airlines,33.28,Dallas,73463.0,0.000359092088246,Moderate Growth
+ULTA,Specialty Retail,430.01,Bolingbrook,20000.0,0.0003587573044943,Low Growth
+CMS,Utilities - Regulated Electric,66.61,Jackson,8356.0,0.0003580633817124,Low Growth
+INVH,REIT - Residential,32.14,Dallas,1555.0,0.0003542328233131,Moderate Growth
+FSLR,Solar,182.39,Tempe,6700.0,0.0003513029680628,Moderate Growth
+BF-B,Beverages - Wineries & Distilleries,41.28,Louisville,5700.0,0.0003484800033764,Declining
+LDOS,Information Technology Services,144.81,Reston,47000.0,0.0003476349746991,Moderate Growth
+CFG,Banks - Regional,43.45,Providence,17329.0,0.0003445049713815,Declining
+LH,Diagnostics & Research,228.61,Burlington,67000.0,0.0003440069962104,Moderate Growth
+VRSN,Software - Infrastructure,198.84,Reston,907.0,0.0003437865090906,Low Growth
+IP,Packaging & Containers,54.45,Memphis,39000.0,0.0003403293491659,Low Growth
+ESS,REIT - Residential,283.76,San Mateo,1747.0,0.0003400059140159,Moderate Growth
+PODD,Medical Devices,266.57,Acton,3000.0,0.0003364096600275,High Growth
+COO,Medical Instruments & Supplies,93.44,San Ramon,15000.0,0.0003355197527887,Moderate Growth
+SMCI,Computer Hardware,31.59,San Jose,,0.0003328023890524,Hyper Growth
+STX,Computer Hardware,87.31,Singapore,30000.0,0.0003322749738397,Hyper Growth
+MAA,REIT - Residential,153.4,Germantown,2427.0,0.0003310617419892,Low Growth
+FDS,Financial Data & Stock Exchanges,483.52,Norwalk,12398.0,0.0003304697355464,Low Growth
+NRG,Utilities - Independent Power Producers,90.45,Houston,18131.0,0.0003296376398535,Declining
+BBY,Specialty Retail,85.55,Richfield,85000.0,0.0003290646828493,Declining
+SNA,Tools & Accessories,343.65,Kenosha,13200.0,0.0003245285951436,Declining
+L,Insurance - Property & Casualty,83.19,New York,12280.0,0.0003241493381376,Moderate Growth
+PFG,Asset Management,77.3,Des Moines,19800.0,0.0003180949327939,Declining
+STLD,Steel,115.69,Fort Wayne,12600.0,0.0003168841696327,Declining
+TRMB,Scientific & Technical Instruments,71.64,Westminster,12700.0,0.0003147582596476,Declining
+OMC,Advertising Agencies,88.86,New York,75900.0,0.0003140030249393,Moderate Growth
+CTRA,Oil & Gas E&P,23.68,Houston,894.0,0.0003137499658587,Declining
+HRL,Packaged Foods,31.68,Austin,20000.0,0.0003129172437819,Declining
+ARE,REIT - Office,99.17,Pasadena,568.0,0.0003118092444204,Moderate Growth
+BLDR,Building Products & Equipment,150.5,Irving,29000.0,0.0003116139600395,Declining
+JBHT,Integrated Freight & Logistics,170.23,Lowell,34718.0,0.0003088072813336,Declining
+GEN,Software - Infrastructure,27.83,Tempe,3400.0,0.0003085774905711,Low Growth
+DGX,Diagnostics & Research,153.1,Secaucus,50000.0,0.000307439351092,Moderate Growth
+KEY,Banks - Regional,17.09,Cleveland,16734.0,0.0003047904842734,Declining
+NI,Utilities - Regulated Gas,36.17,Merrillville,7364.0,0.0003037536347495,Low Growth
+MOH,Healthcare Plans,294.73,Long Beach,18000.0,0.0003033067467093,High Growth
+PNR,Specialty Industrial Machinery,101.95,London,10500.0,0.000303068260265,Declining
+J,Engineering & Construction,135.75,Dallas,60000.0,0.0003028884696732,Low Growth
+DG,Discount Stores,76.4,Goodlettsville,185800.0,0.0003022954683855,Low Growth
+BALL,Packaging & Containers,55.8,Westminster,21000.0,0.0002995935800152,Declining
+NWS,Entertainment,30.7,New York,23900.0,0.0002946060537748,Low Growth
+NWSA,Entertainment,27.86,New York,23900.0,0.0002942895456934,Low Growth
+UDR,REIT - Residential,43.46,Highlands Ranch,1397.0,0.0002937286742132,Low Growth
+HOLX,Medical Instruments & Supplies,71.65,Marlborough,6990.0,0.0002925437585979,Low Growth
+JBL,Electronic Components,145.0,Saint Petersburg,138000.0,0.0002913772476143,Declining
+GPC,Auto Parts,115.73,Atlanta,60000.0,0.0002894908926107,Low Growth
+IEX,Specialty Industrial Machinery,212.38,Northbrook,8800.0,0.0002893375575257,Low Growth
+MAS,Building Products & Equipment,74.39,Livonia,18000.0,0.0002887520175751,Low Growth
+KIM,REIT - Retail,23.42,Jericho,660.0,0.0002840276830955,Moderate Growth
+ALGN,Medical Instruments & Supplies,211.06,Tempe,21690.0,0.000283475470451,Low Growth
+DLTR,Discount Stores,72.94,Chesapeake,65894.0,0.0002821920099156,Low Growth
+EXPD,Integrated Freight & Logistics,111.48,Seattle,18690.0,0.0002807451368842,Hyper Growth
+EG,Insurance - Reinsurance,356.64,Hamilton,2844.0,0.0002757680933619,Moderate Growth
+MRNA,Biotechnology,39.39,Cambridge,5600.0,0.0002727112295719,Low Growth
+LNT,Utilities - Regulated Electric,58.95,Madison,3281.0,0.0002721450706749,Low Growth
+AVY,Packaging & Containers,188.13,Mentor,35000.0,0.0002719481834883,Low Growth
+BAX,Medical Instruments & Supplies,29.5,Deerfield,60000.0,0.0002709906452153,Low Growth
+TPR,Luxury Goods,64.15,New York,12500.0,0.0002689560767359,Declining
+VTRS,Drug Manufacturers - Specialty & Generic,12.52,Canonsburg,32000.0,0.0002688569054319,Declining
+CF,Agricultural Inputs,84.98,Northbrook,2700.0,0.0002660587750234,Moderate Growth
+FFIV,Software - Infrastructure,252.25,Seattle,,0.0002660117962337,Moderate Growth
+DPZ,Restaurants,426.18,Ann Arbor,6500.0,0.0002647746881041,Low Growth
+AKAM,Software - Infrastructure,95.89,Cambridge,10947.0,0.00025916897626,Low Growth
+RL,Apparel Manufacturing,230.28,New York,14800.0,0.0002572750125348,Moderate Growth
+TXT,Aerospace & Defense,76.85,Providence,35000.0,0.0002564942066265,Low Growth
+SWKS,Semiconductors,88.75,Irvine,9750.0,0.0002553498033086,Declining
+EVRG,Utilities - Regulated Electric,61.43,Kansas City,4658.0,0.0002541702488023,Moderate Growth
+EPAM,Information Technology Services,248.26,Newtown,53250.0,0.000253346775099,Low Growth
+DOC,REIT - Healthcare Facilities,20.12,Denver,193.0,0.0002531873604059,High Growth
+APTV,Auto Parts,58.86,Dublin,154000.0,0.0002488951018304,Declining
+RVTY,Diagnostics & Research,112.56,Waltham,11000.0,0.0002464583212186,Low Growth
+AMCR,Packaging & Containers,9.4,Zurich,41000.0,0.0002444328353052,Declining
+REG,REIT - Retail,73.8,Jacksonville,492.0,0.000242450790955,Moderate Growth
+POOL,Industrial Distribution,349.04,Covington,6000.0,0.00023897601859,Declining
+INCY,Biotechnology,68.84,Wilmington,2524.0,0.0002386006120024,High Growth
+BXP,REIT - Office,74.64,Boston,836.0,0.0002368469951086,Low Growth
+KMX,Auto & Truck Dealerships,84.27,Richmond,30000.0,0.0002333435748934,Declining
+CAG,Packaged Foods,27.11,Chicago,18500.0,0.0002328095826501,Declining
+HST,REIT - Hotel & Motel,18.2,Bethesda,163.0,0.0002320014737745,Moderate Growth
+JKHY,Information Technology Services,176.74,Monett,7170.0,0.000231994233514,Moderate Growth
+SWK,Tools & Accessories,82.0,New Britain,50500.0,0.0002274356328353,Declining
+DVA,Medical Care Facilities,151.85,Denver,70000.0,0.0002240874084337,Low Growth
+CPB,Packaged Foods,41.5,Camden,14400.0,0.0002225793524373,Moderate Growth
+CHRW,Integrated Freight & Logistics,104.34,Eden Prairie,14537.0,0.0002218954333741,Moderate Growth
+JNPR,Communication Equipment,37.24,Sunnyvale,11144.0,0.0002218278760321,Declining
+CPT,REIT - Residential,114.91,Houston,1640.0,0.0002205497581826,Declining
+TAP,Beverages - Brewers,59.34,Golden,16500.0,0.0002200519119729,Declining
+NDSN,Specialty Industrial Machinery,209.73,Westlake,7700.0,0.0002151389254122,Low Growth
+PAYC,Software - Application,207.23,Oklahoma City,7308.0,0.0002149829374072,Moderate Growth
+UHS,Medical Care Facilities,180.11,King of Prussia,96700.0,0.00021375537242,Moderate Growth
+NCLH,Travel Services,26.91,Miami,41000.0,0.0002128823959685,Moderate Growth
+DAY,Software - Application,74.84,Minneapolis,9084.0,0.0002123377183535,High Growth
+SJM,Packaged Foods,109.89,Orrville,9000.0,0.0002103908251918,High Growth
+TECH,Biotechnology,73.17,Minneapolis,3100.0,0.000209168731852,Low Growth
+SOLV,Health Information Services,66.83,Saint Paul,,0.0002077154475975,Low Growth
+ALLE,Security & Protection Services,132.18,Dublin,12200.0,0.0002067252636713,Moderate Growth
+BG,Farm Products,79.1,Chesterfield,23000.0,0.000198704455151,Declining
+AIZ,Insurance - Property & Casualty,212.27,Atlanta,13600.0,0.0001958668809822,Moderate Growth
+IPG,Advertising Agencies,29.07,New York,55100.0,0.000194827599615,Declining
+BEN,Asset Management,20.49,San Mateo,10200.0,0.0001931616211929,Moderate Growth
+EMN,Specialty Chemicals,91.76,Kingsport,14000.0,0.0001913582804742,Moderate Growth
+ALB,Specialty Chemicals,88.65,Charlotte,9000.0,0.000187467552378,Declining
+MGM,Resorts & Casinos,34.16,Las Vegas,58000.0,0.000182985517915,Moderate Growth
+AOS,Specialty Industrial Machinery,68.72,Milwaukee,12000.0,0.000179265995267,Declining
+WYNN,Resorts & Casinos,88.95,Las Vegas,27800.0,0.000175739454118,Low Growth
+PNW,Utilities - Regulated Electric,84.96,Phoenix,6133.0,0.0001737947532999,Moderate Growth
+ENPH,Solar,71.45,Fremont,3157.0,0.00017367679048,Declining
+LKQ,Auto Parts,36.88,Chicago,49000.0,0.0001724880981385,Low Growth
+FRT,REIT - Retail,111.92,North Bethesda,297.0,0.0001723477513071,Moderate Growth
+CRL,Diagnostics & Research,185.77,Wilmington,20400.0,0.0001709093160347,Declining
+GNRC,Specialty Industrial Machinery,156.26,Waukesha,8315.0,0.0001672656411033,Moderate Growth
+AES,Utilities - Diversified,13.0,Arlington,9600.0,0.0001662995729559,Declining
+GL,Insurance - Life,109.39,McKinney,3636.0,0.0001652093702653,Moderate Growth
+LW,Packaged Foods,62.09,Eagle,10700.0,0.0001593410561982,Declining
+HSIC,Medical Distribution,69.82,Melville,26000.0,0.0001566180550071,Low Growth
+MKTX,Capital Markets,230.15,New York,881.0,0.0001561222169103,High Growth
+MTCH,Internet Content & Information,33.76,Dallas,2600.0,0.0001525089308078,Low Growth
+TFX,Medical Instruments & Supplies,178.16,Wayne,14500.0,0.0001488670981819,Low Growth
+WBA,Pharmaceutical Retailers,9.55,Deerfield,193000.0,0.0001483615511352,Moderate Growth
+HAS,Leisure,57.58,Pawtucket,5502.0,0.0001445142461792,Declining
+IVZ,Asset Management,17.33,Atlanta,8524.0,0.0001401302776369,Moderate Growth
+APA,Oil & Gas E&P,21.04,Houston,2271.0,0.0001400383465935,Moderate Growth
+MOS,Agricultural Inputs,24.07,Tampa,14049.0,0.0001375560794595,Declining
+PARA,Entertainment,10.66,New York,21900.0,0.0001366661722206,Declining
+MHK,"Furnishings, Fixtures & Appliances",119.16,Calhoun,43300.0,0.0001353219156044,Declining
+CE,Chemicals,68.25,Irving,12400.0,0.0001342246200377,Declining
+HII,Aerospace & Defense,190.45,Newport News,44000.0,0.0001340740484108,Declining
+CZR,Resorts & Casinos,32.82,Reno,51000.0,0.0001254637666177,Declining
+BWA,Auto Parts,31.88,Auburn Hills,39900.0,0.0001254379006488,Declining
+QRVO,Semiconductors,70.85,Greensboro,8700.0,0.0001204914025514,Declining
+FMC,Agricultural Inputs,50.15,Philadelphia,5800.0,0.0001126347710838,Moderate Growth
+AMTM,Specialty Business Services,19.17,Chantilly,,8.39130444266517e-05,Declining
