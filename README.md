@@ -34,6 +34,17 @@ A comprehensive collection of financial and operational metrics for major US com
 ### 1. Data Preparation
 
 ### 2. Feature Selection
+#### Dataset after feature selction
+
+| Feature | Description | Type |
+|---------|-------------|------|
+| ​**Symbol**​ | Unique ticker symbol (e.g., AAPL) | Identifier |
+| ​**Industry**​ | Specific business classification (e.g., Semiconductors) | Categorical |
+| ​**Current price**​ | Latest trading price (USD) | Numerical |
+| ​**City**​ | Headquarters location | Categorical |
+| ​**Full_time employees**​ | Total permanent staff count | Numerical |
+| ​**Weight**​ | Index weighting percentage | Numerical |
+| ​**Growth_Category**​ | Revenue growth classification (5-level Declining/Low/Moderate/High/Hyper) |  Target variable |
 
 ### 3. Feature engineering
 
