@@ -30,17 +30,7 @@ A comprehensive collection of financial and operational metrics for major US com
 | ​**Weight**​ | Index weighting percentage | Numerical |
 
 ### Target Variable
-Revenue Growth, our primary target variable, represents the percentage change in a company's revenue over a specified time period. This metric is fundamental in assessing the financial performance and operational vitality of companies within the S&P 500 dataset. Based on our analysis, we categorize companies into five distinct segments according to their revenue growth rates: Hyper Growth, High Growth, Moderate Growth, Low Growth, and Declining.
-
-Our category analysis indicates a diverse distribution among the companies:
-
-- Moderate Growth constitutes the largest segment, accounting for approximately 33.9% of the dataset, indicating steady but moderate increases in revenue.
-- Low Growth companies, representing 25.1%, show minimal revenue increases, reflecting limited growth momentum.
-- Declining companies, making up 24.8%, experienced reductions in revenue, signaling challenges or contraction in their market presence.
-- High Growth companies comprise 11.6%, demonstrating strong and sustainable revenue increases, highlighting notable market performance.
-- Hyper Growth firms, at 4.6%, represent a small yet distinct group achieving exceptionally high revenue growth, indicative of rapid expansion and substantial market potential.
-
-This categorization provides valuable insights into the growth dynamics and financial health of the companies analyzed, enabling targeted strategic assessments and informed investment decisions.
+**Revenue Growth**, our target variable, measures the percentage change in a company's revenue over a given period, reflecting financial performance. Analyzing its distribution among S&P 500 companies, we classified growth into five categories: **Declining** (negative growth), **Low Growth (0–5%)**, **Moderate Growth** (5–15%, largest segment at 33.9%), **High Growth** (15–30%), and **Hyper Growth** (>30%). This categorization highlights different levels of company performance, enabling focused analysis and strategic decision-making.
 
 ## Project workflow
 
