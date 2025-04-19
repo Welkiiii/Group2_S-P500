@@ -29,6 +29,9 @@ A comprehensive collection of financial and operational metrics for major US com
 | ​**Long business summary**​ | Company description (50-200 words) | Text |
 | ​**Weight**​ | Index weighting percentage | Numerical |
 
+## Target Variable
+Revenue Growth refers to the percentage increase or decrease in a company's revenue over a defined period of time. It serves as a critical indicator of a company's financial health and market performance. In our analysis, we utilize revenue growth as our primary target variable to evaluate and classify companies into distinct performance categories: High, Middle, Low, and Negative. This classification allows us to effectively assess and compare the companies' growth potential and operational success within the context of the S&P 500 dataset.
+
 ## Project workflow
 
 ### 1. Data Preparation
