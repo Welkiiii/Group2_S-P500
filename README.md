@@ -29,7 +29,7 @@ A comprehensive collection of financial and operational metrics for major US com
 | ​**Long business summary**​ | Company description (50-200 words) | Text |
 | ​**Weight**​ | Index weighting percentage | Numerical |
 
-## Target Variable
+### Target Variable
 Revenue Growth, our primary target variable, represents the percentage change in a company's revenue over a specified time period. This metric is fundamental in assessing the financial performance and operational vitality of companies within the S&P 500 dataset. Based on our analysis, we categorize companies into five distinct segments according to their revenue growth rates: Hyper Growth, High Growth, Moderate Growth, Low Growth, and Declining.
 
 Our category analysis indicates a diverse distribution among the companies:
