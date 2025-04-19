@@ -30,7 +30,17 @@ A comprehensive collection of financial and operational metrics for major US com
 | ​**Weight**​ | Index weighting percentage | Numerical |
 
 ## Target Variable
-Revenue Growth refers to the percentage increase or decrease in a company's revenue over a defined period of time. It serves as a critical indicator of a company's financial health and market performance. In our analysis, we utilize revenue growth as our primary target variable to evaluate and classify companies into distinct performance categories: High, Middle, Low, and Negative. This classification allows us to effectively assess and compare the companies' growth potential and operational success within the context of the S&P 500 dataset.
+Revenue Growth, our primary target variable, represents the percentage change in a company's revenue over a specified time period. This metric is fundamental in assessing the financial performance and operational vitality of companies within the S&P 500 dataset. Based on our analysis, we categorize companies into five distinct segments according to their revenue growth rates: Hyper Growth, High Growth, Moderate Growth, Low Growth, and Declining.
+
+Our category analysis indicates a diverse distribution among the companies:
+
+- Moderate Growth constitutes the largest segment, accounting for approximately 33.9% of the dataset, indicating steady but moderate increases in revenue.
+- Low Growth companies, representing 25.1%, show minimal revenue increases, reflecting limited growth momentum.
+- Declining companies, making up 24.8%, experienced reductions in revenue, signaling challenges or contraction in their market presence.
+- High Growth companies comprise 11.6%, demonstrating strong and sustainable revenue increases, highlighting notable market performance.
+- Hyper Growth firms, at 4.6%, represent a small yet distinct group achieving exceptionally high revenue growth, indicative of rapid expansion and substantial market potential.
+
+This categorization provides valuable insights into the growth dynamics and financial health of the companies analyzed, enabling targeted strategic assessments and informed investment decisions.
 
 ## Project workflow
 
