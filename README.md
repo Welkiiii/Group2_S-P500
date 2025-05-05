@@ -29,6 +29,9 @@ A comprehensive collection of financial and operational metrics for major US com
 | ​**Long business summary**​ | Company description (50-200 words) | Text |
 | ​**Weight**​ | Index weighting percentage | Numerical |
 
+### Target Variable
+**Revenue Growth**, our target variable, measures the percentage change in a company's revenue over a given period, reflecting financial performance. Analyzing its distribution among S&P 500 companies, we classified growth into five categories: **Declining** (negative growth), **Low Growth (0–5%)**, **Moderate Growth** (5–15%, largest segment at 33.9%), **High Growth** (15–30%), and **Hyper Growth** (>30%). This categorization highlights different levels of company performance, enabling focused analysis and strategic decision-making.
+
 ## Project workflow
 
 ### 1. Data Preparation
